@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;
+}
+
+.div1{
+    border: 2px solid;
+    background-color: antiquewhite;
+}
+
+.div2{
+    border: 2px solid;
+    background-color: antiquewhite;
+}
+
+.div3{
+    border: 2px solid;
+    background-color: antiquewhite;
+}
+
+.div4{
+    border: 2px solid;
+    background-color: antiquewhite;
+}
+
+.div5{
+    border: 2px solid;
+    background-color: antiquewhite;
+}
+
+header{
+    background-color:rgb(2, 58, 5);
+    padding: 30px;
+    text-align: center;
+    color: antiquewhite;
+}
+
+div{
+    background:linear-gradient(white,rgb(2, 58, 9),white);
+    padding: 20px;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background: linear-gradient(rgb(9, 66, 9),white,rgb(9, 66, 9));
+    padding: 10px;
+    text-align: center;
+}
